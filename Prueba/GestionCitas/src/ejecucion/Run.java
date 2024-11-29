@@ -27,7 +27,7 @@ public class Run {
      * @param args Argumentos de línea de comando (no utilizados en este caso).
      */
     public static void main(String[] args) {
-        System.out.println("david lopez");
+        System.out.println("david lopez castellanos");
         
         // Bucle principal del programa, que permite gestionar las diferentes secciones
         while (true) {
