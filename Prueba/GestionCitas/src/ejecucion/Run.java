@@ -18,6 +18,7 @@ public class Run {
     private static PacienteController pacienteController = new PacienteController();
     private static MedicoController medicoController = new MedicoController();
     private static TurnoController turnoController = new TurnoController();
+    
 
     /**
      * Método principal que inicia el sistema y muestra un menú para gestionar pacientes, médicos y turnos.
@@ -26,6 +27,7 @@ public class Run {
      * @param args Argumentos de línea de comando (no utilizados en este caso).
      */
     public static void main(String[] args) {
+        System.out.println("david lopez");
         
         // Bucle principal del programa, que permite gestionar las diferentes secciones
         while (true) {
